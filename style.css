@@ -525,3 +525,8 @@ button:hover {
   font-size: 15px;
   opacity: 0.6;
 }
+
+#c2{
+  text-align: right;
+  margin-right: 70px;
+}
